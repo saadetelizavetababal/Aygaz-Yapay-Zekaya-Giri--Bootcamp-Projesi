@@ -1,4 +1,4 @@
-# Aygaz-Yapay-Zekaya-Giri-Bootcamp-Projesi
+# Aygaz-Yapay-Zekaya-Giriş-Bootcamp-Projesi
 # Proje Adı: Fashion MNIST ile Görüntü Sınıflandırma
 
 ## Projenin Amacı
