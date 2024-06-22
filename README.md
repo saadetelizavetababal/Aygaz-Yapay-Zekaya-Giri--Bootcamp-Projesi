@@ -9,7 +9,3 @@ Bu proje, Fashion MNIST veri setini kullanarak farklı makine öğrenmesi ve der
 
 ## Kullanılan Yöntemler
 - Convolutional Neural Networks (CNN)
-
-## Sonuçlar
-- Eğitim doğruluğu: XX%
-- Test doğruluğu: XX%
